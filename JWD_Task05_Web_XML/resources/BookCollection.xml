@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book-collection>
+	<book>
+		<title>Детектив</title>
+		<author>Дэн Браун</author>
+		<ISBN>978-5-17-106150-0</ISBN>
+		<genre>Художественная литература</genre>
+		<publisher>АСТ</publisher>
+		<year>2017</year>
+	</book>
+	<book>
+		<title>Цифровая крепость</title>
+		<author>Дэн Браун</author>
+		<ISBN>978-5-17-062717-2</ISBN>
+		<genre>Детектив</genre>
+		<publisher>АСТ</publisher>
+		<year>2010</year>
+	</book>
+	<book>
+		<title>Думай и богатей</title>
+		<author>Наполеон Хилл</author>
+		<ISBN>978-985-15-3506-0</ISBN>
+		<genre>Бизнес-литература</genre>
+		<publisher>	Попурри</publisher>
+		<year>2017</year>
+	</book>
+	<book>
+		<title>Hygge. Секрет датского счастья</title>
+		<author>Майк Викинг</author>
+		<ISBN>978-5-389-11770-9</ISBN>
+		<genre>Нехудожественная литератур</genre>
+		<publisher>	КоЛибри</publisher>
+		<year>2016</year>
+	</book>
+	<book>
+		<title>451 градус по Фаренгейту</title>
+		<author>Рэй Брэдбери</author>
+		<ISBN>978-5-699-93026-5</ISBN>
+		<genre>Современная литература</genre>
+		<publisher>Эксмо</publisher>
+		<year>	2016</year>
+	</book>
+	<book>
+		<title>Самый богатый человек в Вавилоне</title>
+		<author>Джордж Клейсон</author>
+		<ISBN>978-985-15-3545-9</ISBN>
+		<genre>Бизнес-литература</genre>
+		<publisher>Попурри</publisher>
+		<year>2018</year>
+	</book>
+	<book>
+		<title>Таинственная история Билли Миллигана</title>
+		<author>Дэниел Киз</author>
+		<ISBN>	978-5-699-97929-5</ISBN>
+		<genre>Художественная литература</genre>
+		<publisher>Эксмо</publisher>
+		<year>2017</year>
+	</book>
+	<book>
+		<title>Оно</title>
+		<author>Стивен Кинг</author>
+		<ISBN>978-5-17-065495-6</ISBN>
+		<genre>Художественная литература</genre>
+		<publisher>АСТ</publisher>
+		<year>2012</year>
+	</book>
+	<book>
+		<title>45 татуировок менеджера. Правила российского руководителя</title>
+		<author>Максим Батырев</author>
+		<ISBN>	978-5-00117-068-6</ISBN>
+		<genre>Менеджмент и управление</genre>
+		<publisher>Манн, Иванов и Фербер</publisher>
+		<year>2013</year>
+	</book>
+	<book>
+		<title>Краткая история времени</title>
+		<author>2017</author>
+		<ISBN>978-5-17-102284-6</ISBN>
+		<genre>Научно-популярная литература</genre>
+		<publisher>	АСТ</publisher>
+		<year>2017</year>
+	</book>
+	<book>
+		<title>Вино. Практический путеводитель</title>
+		<author>Мадлен Пакетт, Джастин Хэммек</author>
+		<ISBN>978-5-389-12121-8</ISBN>
+		<genre>Домашний мир</genre>
+		<publisher>КоЛибри</publisher>
+		<year>	2016</year>
+	</book>
+	<book>
+		<title>1984</title>
+		<author>Джордж Оруэлл</author>
+		<ISBN>978-5-17-080115-2</ISBN>
+		<genre>Классическая литература</genre>
+		<publisher>	АСТ</publisher>
+		<year>2015</year>
+	</book>
+	<book>
+		<title>Уличный кот по имени Боб</title>
+		<author>Джеймс Боуэн, Гарри Дженкинс</author>
+		<ISBN>978-5-386-06094-7</ISBN>
+		<genre>Современная литература</genre>
+		<publisher>Рипол Классик</publisher>
+		<year>2013</year>
+	</book>
+	<book>
+		<title>Маленький принц</title>
+		<author>Антуан де Сент-Экзюпери</author>
+		<ISBN>978-5-699-50605-7</ISBN>
+		<genre>Художественные книги для детей</genre>
+		<publisher>	Эксмо</publisher>
+		<year>2011</year>
+	</book>
+</book-collection>
